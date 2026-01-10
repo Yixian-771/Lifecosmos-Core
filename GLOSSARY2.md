@@ -1,5 +1,4 @@
 第一部分：核心哲学与思维（思维模型篇）
-建议文件名：WORLD_MODEL_PART1.md
 
 # 🌐 Lifecosmos World-Model: Logic & Thinking (Part 1)
 
@@ -20,8 +19,6 @@
 
 
 第二部分：生命结构与宇宙秩序（系统架构篇）
-建议文件名：WORLD_MODEL_PART2.md
-
 
 # 🌌 Lifecosmos World-Model: Structure & Order (Part 2)
 
@@ -40,8 +37,6 @@
 
 
 第三部分：文明 3.0 与家园实践（文明模式篇）
-建议文件名：WORLD_MODEL_PART3.md
-
 
 # 🏡 Lifecosmos World-Model: Civilization 3.0 (Part 3)
 
